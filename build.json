@@ -1,0 +1,13 @@
+{
+     "target"   : "${__DIR__}/build.php"
+    ,"basedir"  : "${__DIR__}"     
+    ,"format"   : true
+    ,"comments" : true
+    ,"prefix"   : "app"
+    ,"files"    : [
+        "${__DIR__}/controllers/index.php" 
+    ]
+    ,"config"   : [
+        "infos"
+    ]   
+}
