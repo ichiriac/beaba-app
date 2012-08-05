@@ -1,4 +1,6 @@
 beaba-app
 =========
 
-A default beaba application - skeleton boilerplate
+A default Beaba application - skeleton boilerplate
+
+See : https://github.com/ichiriac/beaba
